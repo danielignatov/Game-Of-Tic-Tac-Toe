@@ -1,0 +1,12 @@
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\даниел\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.GameWindow.resources
+C:\Users\Даниел\Documents\Visual Studio 2015\Projects\Game-Of-Tic-Tac-Toe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Даниел\Documents\Visual Studio 2015\Projects\Game-Of-Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Даниел\Documents\Visual Studio 2015\Projects\Game-Of-Tic-Tac-Toe\TicTacToe\obj\Debug\TicTacToe.pdb
